@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\prusl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prusl\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,11 +1,13 @@
 ﻿using API.Entities;
+using API.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SQLitePCL;
 
 namespace API.Controllers;
+ 
  [ApiController]
- [Route("api/[controller]")] // api/users
+ [Route("api/[controller]")] // GET /api/users
 public class UsersController : ControllerBase
 {
     private readonly DataContext _context;
@@ -15,6 +17,7 @@ public class UsersController : ControllerBase
         _context = context;
     }
 
+    [HttpGet]
     public async Task<ActionResult<IEnumerable<AppUser>>> GetUsers()
     {
         var users = await _context.Users.ToListAsync();

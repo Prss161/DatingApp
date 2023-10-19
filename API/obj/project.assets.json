@@ -1270,11 +1270,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\prusl\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\prusl\\OneDrive\\Pulpit\\C#\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\Users\\prusl\\OneDrive\\Pulpit\\Csharp\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prusl\\AppData\\Roaming\\NuGet\\NuGet.Config"
